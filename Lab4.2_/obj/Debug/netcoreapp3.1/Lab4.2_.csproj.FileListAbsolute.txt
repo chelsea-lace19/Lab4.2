@@ -1,0 +1,13 @@
+C:\Users\callen6\dev\Week4\Lab4.2\Lab4.2_\Lab4.2_\bin\Debug\netcoreapp3.1\Lab4.2_.exe
+C:\Users\callen6\dev\Week4\Lab4.2\Lab4.2_\Lab4.2_\bin\Debug\netcoreapp3.1\Lab4.2_.deps.json
+C:\Users\callen6\dev\Week4\Lab4.2\Lab4.2_\Lab4.2_\bin\Debug\netcoreapp3.1\Lab4.2_.runtimeconfig.json
+C:\Users\callen6\dev\Week4\Lab4.2\Lab4.2_\Lab4.2_\bin\Debug\netcoreapp3.1\Lab4.2_.runtimeconfig.dev.json
+C:\Users\callen6\dev\Week4\Lab4.2\Lab4.2_\Lab4.2_\bin\Debug\netcoreapp3.1\Lab4.2_.dll
+C:\Users\callen6\dev\Week4\Lab4.2\Lab4.2_\Lab4.2_\bin\Debug\netcoreapp3.1\Lab4.2_.pdb
+C:\Users\callen6\dev\Week4\Lab4.2\Lab4.2_\Lab4.2_\obj\Debug\netcoreapp3.1\Lab4.2_.csprojAssemblyReference.cache
+C:\Users\callen6\dev\Week4\Lab4.2\Lab4.2_\Lab4.2_\obj\Debug\netcoreapp3.1\Lab4.2_.AssemblyInfoInputs.cache
+C:\Users\callen6\dev\Week4\Lab4.2\Lab4.2_\Lab4.2_\obj\Debug\netcoreapp3.1\Lab4.2_.AssemblyInfo.cs
+C:\Users\callen6\dev\Week4\Lab4.2\Lab4.2_\Lab4.2_\obj\Debug\netcoreapp3.1\Lab4.2_.csproj.CoreCompileInputs.cache
+C:\Users\callen6\dev\Week4\Lab4.2\Lab4.2_\Lab4.2_\obj\Debug\netcoreapp3.1\Lab4.2_.dll
+C:\Users\callen6\dev\Week4\Lab4.2\Lab4.2_\Lab4.2_\obj\Debug\netcoreapp3.1\Lab4.2_.pdb
+C:\Users\callen6\dev\Week4\Lab4.2\Lab4.2_\Lab4.2_\obj\Debug\netcoreapp3.1\Lab4.2_.genruntimeconfig.cache
